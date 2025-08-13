@@ -1,0 +1,531 @@
+Al Bhed: Fryd ec drec?                  (What is this?)
+Al Bhed: Y fiend! Eh risyh tekieca!     (A fiend! In human diguise!)
+         Oac! Ed ec cu!                 (Yes! It is so!)
+Al Bhed: Fa gemm ed?                    (We kill it?)
+Rikku:   Fyed!                          (Wait!)
+Rikku:   Fryd ev ec risyh?              (What if it is human?)
+Al Bhed: Drao yna dra cysa eh taydr.    (They are the same in death.)
+Rikku:   E vunpet ed!                   (I forbid it!)
+         Fa pnehk ed fedr ic.           (We bring it with us.)
+Rikku:   Cunno.                         (Sorry.)
+
+Al Bhed: Ced, lybdeja!                  (Sit, captive!)
+Al Bhed: Hu sujehk, rayn?               (No moving, hear?)
+Brother: Caynlr res!                    (Search him!)
+Brother: Tu oui hud cbayg?              (Do you not speak?)
+Al Bhed: Ehcumahla!                     (Insolence!)
+Rikku:   Fyed!                          (Wait!)
+
+
+Al Bhed : Oui yvnyet uv dra cay?       (You afraid of the sea?)
+           Faygmehk!                    (Weakling!)
+
+Brother:   Suja ed!                     (Move it!)
+           Kad du fung, essateydamo!    (Get to work, immediately!)
+
+Al Bhed : Ev oui'na hayn taydr,        (If you're near death,)
+           naymmo hayn taydr, ica drec! (really near death, use this!)
+
+Al Bhed : Ku uh, aynh ouin byo.        (Go on, earn your pay.)
+
+
+
+Al Bhed: Fa vuiht dra airship!          (We found the airship!)
+Al Bhed: Dra naluntc fana nekrd.        (The records were right.)
+Al Bhed: Now, how to drag it up?        (Now, how to drag it up?)
+Al Bhed: Oui, uidceta!                  (You, outside!)
+
+
+Al Bhed: Sin ec lusa!                   (Sin is come!)
+Al Bhed: Ihtan ic! Ihtan ic!            (Under us! Under us!)
+
+
+
+Al Bhed Psyches: Y myto summoner! Fa sicd nabund. (A lady summoner! We must report.)
+
+
+Al Bhed NPC:     E tu hud ghuf y drehk! E cfayn du oui! (I do not know a thing! I swear to you!)
+
+
+
+
+Rin: Byntuh sa.          (Pardon me.)
+Rin: Hela du saad oui.   (Nice to meet you.)
+
+Rin: Ed ec y crysa.      (It is a shame.)
+
+Rin: Dryhg oui.          (Thank you.)
+
+
+
+Al Bhed NPC: Fa ryja dra yhleahd machina.   (We have the ancient machina.)
+             Dra ubanydeuh femm cillaat.    (The operation will succeed.)
+
+Al Bhed NPC: Uin machina femm bnuja dryd Yevon'c daylrehkc yna hud dra fyo. (Our machina will prove that Yevon's teachings are not the way.)
+
+Al Bhed NPC: Y summoner... E crymm nabund drec mydan. (A summoner... I shall report this later.)
+
+Al Bhed NPC: Paehk ynuiht Yevon'c vummufanc sygac celg. (Being around Yevon's followers makes sick.)
+
+
+
+
+
+Brother: Rikku! Tuh'd ehdanvana un oui kad drec! (Rikku! Don't interfere or you get this!)
+
+Brother: Ouin bnaleuic magic yht aeons yna caymat! Kad dras! (Your precious magic and aeons are sealed! Get them!)
+
+Brother: Rikku! E femm damm Vydran!      (Rikku! I will tell Father!)
+
+Rikku:   E ys dra guardian uv Yuna, oui caa? (I am the guardian of Yuna, you see?)
+
+Rikku:   Yuna ec cyva! Fa femm kiynt ran! Cra ec cyva! (Yuna is safe! We will guard her! She is safe!)
+
+Brother: Oui tu drec ymuha, cecdan!      (You do this alone, sister!)
+
+
+Al Bhed NPC: Mucd so kyhk. Rana oui ku.  (Lost my gang. Here you go.)
+
+Al Bhed NPC: Ed'c lumt yeh'd ed?         (It's cold ain't it?)
+
+
+
+Pafyna uv fiend!               (Beware of fiend!)
+Faygan fiend du dra nekrd.     (Weaker fiend to the right.)
+Cdnuhkan fiend du dra mavd.    (Stronger fiend to the left.)
+
+Yrayt ec y                     (Ahead is a)
+bmyla uv nacd.                 (place of rest.)
+
+Drec fyo du Home.              (This way to Home.)
+
+
+Home ec hayn.                  (Home is near.)
+
+Tyhkan!                        (Danger!)
+Pafyna uv Cyhtcdunsc!          (Beware of Sandstorms!)
+
+
+Tyhkan!                        (Danger!)
+Cdnuhk fiend eh jelehedo!      (Strong fiend in vicinity!)
+
+
+
+
+Rikku: Fru tet drec du oui?      (Who did this to you?)
+
+
+
+Cid: Dryd ec fnuhk!              (That is wrong!)
+Cid: Guado ku vun dra summoner.  (Guado go for the summoner.)
+Rikku: Vydran...                 (Father...)
+
+
+Cid: Drec pedac!                 (This bites!)
+Cid: Rikku! Oui nayt sa?         (Rikku! You read me?)
+Cid: Oui ku ihtan, duu!          (You go under, too!) 
+     E ys majammehk Home!        (I am levelling Home!)
+Cid: Yht dra fiend fedr ed!      (And the fiend with it!)
+
+Cid:     Hu desa! Ku, ku, ku!    (No time! Go, go, go!)
+Brother: Three minute mavd!      (Three minute left!)
+Cid:     Rinno, rinno!           (Hurry, hurry!)
+         Oui ryja one minute!    (You have one minute!)
+Cid:     Ajanouha uh puynt?      (Everyone on board?)
+Response:Ajanouha ymeja!         (Everyone alive!)
+Brother: Vydran! Nayto du ku!    (Father! Ready to go!)
+Cid:     Oaaryy! Y vmekrd  years ujantia! (Yeehaa! A flight  years overdue!)
+Brother: Fruy! Ed sujac!         (Whoa! It moves!)
+Cid:     Necg pek, feh pek!      (Risk big, win big!)
+Brother: Fruy! Ed vmeac!         (Whoa! It flies!)
+Cid:     Haqd, fa ice dryd!      (Next, we use that!)
+Brother: Frydajan oui cyo.       (Whatever you say.)
+
+
+Cid:     Nayto? Vena!                    (Ready? Fire!)
+Cid:     Gah-hah-hah-hah!                (Gah-hah-hah-hah!)
+         Nadinh du cyht!                 (Return to sand!)
+
+Cid:     Hu haat vun daync!              (No need for tears!)
+Cid:     Fryd ec kuut ypuid machina,     (What is good about machina,)
+         ec drao lyh pa piemd yhaf, oui caa? (is they can be built anew, you see?)
+
+
+Brother: Mayja sa pa!                      (Leave me be!)
+         E's luhlahdnydehk!                (I'm concentrating!)
+
+Brother: Vmoehk ec naymmo hud so vunda!    (Flying is really not my forte!)
+
+Brother: Gaab vmoehk! Gaab vmoehk!         (Keep flying! Keep flying!)
+
+
+Lakkam: Dra Al Bhed Psyches ymm aclybat ryns. (The Al Bhed Psyches all escaped harm.)
+        Fa yna nayto du bmyo ykyeh!        (We are ready to play again!)
+
+
+Judda:   Cehla lremtruut, E ryja bmyoat    (Since childhood, I have played)
+         uhmo blitz! Ed ec dnia!           (only blitz! It is true!)
+
+Nimrook: Fa haat blitz du lraan uin baobma (We need blitz to cheer our people)
+         yrdam dra mucc ur Home, oui caa?  (after the loss of Home, you see?)
+
+Berrik:  Vunkeja sa vun so yldeuhc eh Luca (Forgive me for my actions in Luca)
+         Fa fyhdat du bnudald dra summoner, oui caa? (We wanted to protect the summoner, you see?)
+
+Eigaar:  Druca Guado! Drao femm vaam       (Those Guado! They will feel)
+         so fnydr eh dra blitz cbrana!     (my wrath in the blitz sphere!)
+
+Blappa:  Huf ec dra desa                   (Now is the time)
+         du dnyeh, dnyeh!                  (to train, train!)
+
+
+Parent:  Buun lremt, ra tuac hud ihtancdyht (Poor child, he does not understand)
+         dryd uin Home ec hu suna         (that our Home is no more)
+
+Child:   Frah femm fa ku Home?            (When will we go Home?)
+
+
+Standing NPC : Dra summoner yht guardian    (The summoner and guardian)
+                caas vimm uv funno.          (seem full of worry.)
+
+Standing NPC : Ajah fedruid uin Home, fa sicd (Even without our Home, we must)
+                meja uh! E uhmo ruba E ys ypma. (live on! I only hope I am able.)
+
+Standing NPC : Lrycat po fiend! Fa yna ymm  (Chased by fiend! We are all)
+                jano denat, yht jano clynat. (very tired, and very scared.)
+
+Sitting NPC :  E red so rayt frah dra creb cruug. (I hit my head when the ship shook.)
+                Huf E ryja y misb!       (Now I have a lump!)
+
+Sitting NPC :  Hu desa vun daync yht cruidehk! (No time for tears and shouting!)
+                Ymm fa sicd tu ec napiemt uin Home! (All we must do is rebuild our Home!)
+
+Left FG NPC:    Ouin vyla, E ryja caah ed pavuna. (Your face, I have seen it before.)
+                Banrybc eh dra dasbma yd Baaj? (Perhaps in the temple at Baaj?)
+
+Right FG NPC : Fryd femm E tu? So tumm!       (What will I do? My doll!)
+                E mavd ed eh Home!             (I left it in Home!)
+
+Right FG NPC : Pid fa cyo muca cusadrehk bnaleuic, (But we say lose something precious,)
+                veht cusadrehk ajah suna bnaleuic. (find something even more precious.)
+
+BG Window NPC:  Ed ec utt du vmo eh y creb     (It is odd to fly in a ship)
+                tnykkat vnus dra ulayh vmuun!  (dragged from the ocean floor!)
+
+
+Brother: Vydran! Fa vuiht Yuna!                (Father! We found Yuna!)
+Cid:     Frana!?                               (Where!?)
+Brother: E femm cruf oui!                      (I will show you!)
+
+
+
+Cid:     Cad luinca du Bevelle!                (Set course to Bevelle!)
+         Vimm cbaat yrayt!                     (Full speed ahead!)
+Brother: Nukan!                                (Roger!)
+
+
+
+
+Window NPC: Ed ec y pyddma sucd tyhkanuic.    (It is a battle most dangerous.)
+            Dyga drec fedr oui.               (Take this with you.)
+
+
+Window NPC: E ryja mejat drnuikr pyt,         (I have lived through bad,)
+            pid E vayn funca ec lusehk.       (but I fear worse is coming.)
+
+Other NPC:  Tu dra Yevon funsc drehg          (Do the Yevon worms think)
+            du gemm ic ymm?                   (to kill us all?)
+
+
+Brother: Cruud!                               (Shoot!)
+         Fa'na mucehk bufan!                  (We're losing power!)
+Cid:     Rao!                                 (Hey!)
+Cid:     E caa Bevelle!                       (I see Bevelle!)
+
+
+Brother: Frana du huf?                        (Where to now?)
+Brother: Frana? Frana?                        (Where? Where?)
+
+Lakkam:  E fuhtan frana femm dra              (I wonder where will the)
+         airship ku vnus rana?                (airship go from here?)
+
+
+Nimrook: E sicd dnyeh un dra airship          (I must train or the airship)
+         femm nup sa uv so siclmac!           (will rob me of my muscles!)
+
+Berrik:  Yevon vuiht dra bmyla uv uin Home (Yevon found the place of our Home)
+         Banrybc fa fana vummufat?         (Perhaps we were followed?)
+
+Eigaar:  E muhk vun dra cyhtc uv Bikanel. (I long for the sands of Bikanel.)
+         Tacand ed syo pa, pid drana          (Desert it may be, but there)
+         ec hu bmyla mega rusa!               (is no place like home!)
+Eigaar:  Dra munt Mika, yh ihcahd?            (The lord Mika, an unsent?)
+         Pid E cyf res eh Luca.               (But I saw him in Luca.)
+
+
+Judda:   Oui yna y dnyedun, hu?               (You are a traitor, no?)
+         Drah oui yna uha fedr dra Al Bhed! (Then you are one with the Al Bhed!)
+
+Blappa:  Dryd fyc vencd desa paehk            (That was first time being)
+         cu lmuca du Sin!                     (so close to Sin!)
+
+
+Standing NPC : Fa mavd getc uh dra knuiht.   (We left kids on the ground.)
+                Cyvan vun dras.               (Safer for them.)
+
+Standing NPC : Draca drehkc rana pamuhk du Secdan Rin, (These things here belong to Mister Rin,)
+                Drao yna hud ouinc du dyga!   (They are not yours to take!)
+
+Walking NPC:    Fa tuh'd ghuf ruf Sin femm nayld. (We don't know how Sin will react.)
+
+Sitting NPC:    E vehymmo ryja vekinat uid ruf (I finally have figured out how)
+                ed ec dryd drec creb ec sujat.    (it is that this ship is moved.)
+
+Left Window NPC:  Fedr drec creb, najahka ykyehcd dra (With this ship, revenge against the)
+                  vummufanc uv Yevon femm pa uinc. (followers of Yevon will be ours.)
+
+Right Window NPC: Dra Sin E cyf eh dra niehc (The Sin I saw in the ruins)
+                  fyc lyms. Fro ec drec?     (was calm. Why is this?)
+
+Brother: E ryja du fynh oui                  (I have to warn you)
+         drehgehk ec hud so vunda.           (thinking is not my forte.)
+Brother: Cu ev oui fyhd y bmyh               (So if you want a plan)
+         ku du cusauha amca.                 (go to someone else.)
+Brother: E ryja du vmo dra airship huf.      (I have to fly the airship now.)
+         Kuutpoa.                            (Goodbye.)
+
+Lakkam:  E fyhd du pa y dub bmyoan,        (I want to be a top player,)
+         syho daysc E fyhd du dno.         (many teams I want to try.)
+
+Nimrook: Dra yka uv dra dasbmac ec bycd,   (The age of the temples is past,)
+         Huf lusac dra yka uv machina!     (Now comes the age of machina!)
+
+Berrik:  So vneaht, ra fahd du Baaj du     (My friend, he went to Baaj to)
+         aqbmuna. Ra dumt y cduno...       (explore. He told a story...)
+Berrik:  Eh dra tacandat dasbma drana, vyehdmo (In the deserted temple there, faintly)
+         dra Rosh uv dra Vyodr lyh pa raynt! (the Hymn of the Fayth can be heard!)
+
+Berrik:  Syopa ed ryc cusadrehk du tu      (Maybe it has something to do)
+         fedr dra aeons E drehg.           (with the aeons I think.)
+
+Berrik:  Baaj ec bmyla uv socdano.         (Baaj is place of mystery.)
+         Socdano fundr aqbmunehk, hu?      (Mystery worth exploring, no?)
+
+Berrik:  Eh yhleahd desac y dasbma fyc eh Baaj. (In ancient times a temple was in Baaj.)
+         Huf ed ec y hacd vun fiend uhmo.  (Now it is a nest for fiend only.)
+Berrik:  Drana ec knayd dnaycina           (There is great treasure)
+         eh dra tacandat dasbma, drao cyo. (in the deserted temple, they say.)
+Berrik:  Pid y knayd fiend mejac drana duu, (But a great fiend lives there too,)
+         yht kiyntc dra dnaycina.         (and guards the treasure.)
+
+Eigaar:  Dra munt Mika, yh ihcahd?            (The lord Mika, an unsent?)
+         Pid E cyf res eh Luca.               (But I saw him in Luca.)
+
+Judda:   Pudr, Yunalesca yht Mika fana tayt, (Both, Yunalesca and Mika were dead,)
+         oad drao lmihk du Spira dekrdmo.   (yet they clung to Spira tightly.)
+
+Blappa:  Paehk uh creb ec pyt vun raymdr.   (Being on ship is bad for health.)
+         Mad ic gelg dra blitzball!         (Let us kick the blitzball!)
+
+Standing NPC : E ys kmyt oui syta ed pylg vnus Bevelle. (I am glad you made it back from Bevelle.)
+                Drao teth'd famlusa ic mycd desa. (They didn't welcome us last time.)
+
+Standing NPC : Drana ec silr du pio,       (There is much to buy,)
+                cu tu hud pa cro!           (so do not be shy!)
+
+Walking NPC:    Ev oui yna bnabynat, fa lyh (If you are prepared, we can)
+                yddylg Sin yd yho desa!     (attack Sin at any time!)
+
+Sitting NPC:    Frah oui pyddma fedr Sin    (When you battle with Sin)
+                E femm pa cehkehk duu, oac! (I will be singing too, yes!)
+
+
+Left Window NPC:  Syho uv uin vneahtc teat eh dra yddylg (Many of our friends died in the attack)
+                  uh Home. Hajan femm E vunkeja dra dasbmac. (on Home. Never will I forgive the temples.)
+
+Right Window NPC: Femm dra baubma uv Spira mecdah (Will the people of Spira listen)
+                  du dra lymm yht cehk vun ic? (to the call and sing for us?)
+
+Brother: Vydran! E ghuf fryd du ica!        (Father! I know what to use!)
+Brother: Fyed!                              (Wait!)
+
+
+Left Window NPC:  Oui femm vekrd Sin ymuha, hu? (You will fight Sin alone, no?)
+                  Pafyna edc duqeh!         (Beware its toxin!)
+
+Right Window NPC: Syga cina du lralg ouin axiebsahd (Make sure to check your equipment)
+                  pavuna kuehk uid uh talg! (before going out on deck!)
+
+Sitting NPC:    Mayja dra creb du so ryhtc! (Leave the ship to my hands!)
+                Oui ku huf du dra talg!     (You go now to the deck!)
+
+Standing NPC : E femm cehk rana duu!       (I will sing here too!)
+                Kuut milg!                  (Good luck!)
+
+Walking NPC:    Dra knyjedo, ed pahtc!      (The gravity, it bends!)
+                Yht fedr Sin yd dra lahdna! (And with Sin at the centre!)
+
+
+Standing NPC : Tu oui ryja ymm dryd oui haat? (Do you have all that you need?)
+                Dymg du Secdan Rin!         (Talk to Mister Rin!)
+
+Lakkam:  E tu hud nih ynuiht eh byhel!      (I do not run around in panic!)
+         Ruba vun dra pacd, bnabyna vun dra funcd! (Hope for the best, prepare for the worst!)
+
+Blappa:  Cuuh ec dra vehym pyddma fedr Sin! (Soon is the final battle with Sin!)
+         Ruf jano aqledat E ys!             (How very excited I am!)
+
+Judda:   Byntuh sa. Cu clynat fyc E dryd    (Pardon me. So scared was I that)
+         E pakyh du dnaspma ymm ujan!       (I began to tremble all over!)
+
+Eigaar:  Ev ajano suidr eh Spira cehkc,     (If every mouth in Spira sings,)
+         fa syo feh drec pyddma.            (we may win this battle.)
+
+Nimrook: Amtan Cid ryc knayd luinyka!       (Elder Cid has great courage!)
+         E sicd maynh du pa mega res.       (I must learn to be like him.)
+
+Berrik:  E ryja vyedr oui femm tu drec drehk, (I have faith you will do this thing,)
+         E femm cehk, duu, vun E pameaja.   (I will sing, too, for I believe.)
+
+
+Brother: Cruud!                             (Shoot!)
+Cid:     Fryd, fryd?                        (What, what?)
+Brother: Fa yna bimmat po Sin!              (We are pulled by Sin!)
+Brother: Duu myda! Ed lusac!                (Too late! It comes!)
+
+Cid:     Nayto? Vena!                       (Ready? Fire!)
+
+Brother: Ed ec ujan.                        (It is over.)
+Cid:     Fryd? Fa ryja uhmo pakih!          (What? We have only begun!)
+Brother: Pid dra syeh kih, ed ec pnugah!    (But the main gun, it is broken!)
+Cid:     Dr-Dryd lyhhud pa!                 (Th-That cannot be!)
+
+Brother: Vydran!                            (Father!)
+         E lyhhud pameaja fryd E caa!       (I cannot believe what I see!)
+Cid:     Pameaja ed, cuh! Drao'ja           (Believe it, son! They've)
+         tuha ed! Ed ec rybbahehk!          (done it! It is happening!)
+Brother: Rikku, aqlammahd!                  (Rikku, excellent!)
+
+
+
+Brother: Femm Sin dnimo nadinh ykyeh?      (Will Sin truly return again?)
+
+Lakkam:  E ghuf ed femm hud tu du byhel,   (I know it will not do to panic,)
+         pid E tu hud ghuf ruf du pa lyms! (but I do not know how to be calm!)
+
+
+Nimrook: Frah dra desa lusac, E femm vekrd, (When the time comes, I will fight,)
+         Sin! Rana ec pacd crud!           (Sin! Here is best shot!)
+
+Berrik:  Frah dra pyddma ec ujan,          (When the battle is over,)
+         fa femm bmyo blitz uhla suna!     (we will play blitz once more!)
+
+Eigaar:  Oui femm yddylg Sin rayt uh?      (You will attack Sin head on?)
+         Dnimo y knayd fynneun yna oui!    (Truly a great warrior are you!)
+
+Judda:   E fecr dra pyddmac                (I wish the battles)
+         fuimt pa ujan...                  (would be over...)
+
+Blappa:  Syga drec pyddma dra mycd!        (Make this battle the last!)
+         Fa yna luihdehk uh oui!           (We are counting on you!)
+
+Standing NPC : Tu hud pa mywo!            (Do not be lazy!)
+                Sin ec nekrd pavuna ic!    (Sin is right before us!)
+
+Standing NPC : Ed femm pa y pyddma sucd jeumahd! (It will be a battle most violent!)
+                Lralg dryd oui ryja ymm oui haat! (Check that you have all you need!)
+
+Walking NPC:    Oui yddylg vnus dra vnuhd? (You attack from the front?)
+                Ed ec y lnywo, pid tamekrdvim bmyh! (It is a crazy, but delightful plan!)
+
+Sitting NPC:    Uin creb ec eh dub cryba!  (Our ship is in top shape!)
+                Huf, ku yht vamm dra knayd Sin! (Now, go and fell the great Sin!)
+
+Left Window NPC:  Fa femm lrynka ehdu Sin, hu? (We will charge into Sin, no?)                                           
+                  Mad ic tu knayd pyddma!  (Let us do great battle!)
+
+Right Window NPC: Dra syeh kih ec vehecrat.(The main gun is finished.)
+                  Ed E lyhhud nabyen.      (It I cannot repair.)
+
+
+
+Brother: Oui ku uhdu Sin uhla suna, ar?   (You go onto Sin once more, eh?)
+         Mayja ed du sa!                  (Leave it to me!)
+Brother: Fa femm vmo yhofrana             (We will fly anywhere)
+         oui fyhd du ku!                  (you want to go!)
+
+
+
+Lakkam:  Rikku yht Yuna yna               (Rikku and Yuna are)
+         eh ouin ryhtc.                   (in your hands.)
+
+
+Nimrook: Ruf fyc ed ehceta Sin?           (How was it inside Sin?)
+         Syho veahtc drana, E drehg.      (Many fiends there, I think.)
+
+Berrik:  So vneaht, ra fahd du Pyyz du    (My friend, he went to Baaj to)
+         aqbmuna. Ra dumt y cduno...      (explore. He told a story...)
+Berrik:  Eh dra tacandat dasbma drana, vyehdmo (In the deserted temple there, faintly)
+         dra Rosh uv dra Vyodr lyh pa raynt! (the Hymn of the Fayth can be heard!)
+                                                                         
+Berrik:  Syopa ed ryc cusadrehk du tu      (Maybe it has something to do)
+         fedr dra aeons E drehg.           (with the aeons I think.)
+
+Berrik:  Baaj ec bmyla uv socdano.         (Baaj is place of mystery.)
+         Socdano fundr aqbmunehk, hu?      (Mystery worth exploring, no?)
+
+Berrik:  Eh yhleahd desac y dasbma fyc eh Baaj. (In ancient times a temple was in Baaj.)
+         Huf ed ec y hacd vun fiend uhmo.  (Now it is a nest for fiend only.)
+Berrik:  Drana ec knayd dnaycina           (There is great treasure)
+         eh dra tacandat dasbma, drao cyo. (in the deserted temple, they say.)
+Berrik:  Pid y knayd fiend mejac drana duu, (But a great fiend lives there too,)
+         yht kiyntc dra dnaycina.         (and guards the treasure.)
+
+Eigaar:  Hajan ryja E druikrd uv vmoehk    (Never have I thought of flying)
+         ehdu Sin! Hud ajah eh tnaysc!     (into Sin! Not even in dreams!)
+
+Judda:   Kuehk ehceta Sin...               (Going inside Sin...)
+         E cyhk eh vnekrd yht fuimt hud cdub! (I sang in fright and would not stop!)                               
+
+Blappa:  Frah dra Lyms lusac, fa femm bmyo (When the Calm comes, we will play)
+         aylr tyo! Huf fa sicd dnyeh, dnyeh! (each day! Now we must train, train!)
+                                         
+
+Standing NPC : Uhla dra Calm lusac,           (Once the Calm comes,)
+                Home sicd pa napiemd.          (Home must be rebuilt.)
+
+Standing NPC : Ymm dryd ec rana ec yd ouin    (All that is here is at your)
+                tecbucym! Pa bnabynat!         (disposal! Be prepared!)
+
+Walking NPC:    Mad ic tacdnuo Sin             (Let us destroy Sin)
+                uhla yht vun ymm!              (once and for all!)
+
+Sitting NPC:    Dra creb ec veha, ajah         (The ship is fine, even)
+                ehceta Sin, E drehg.           (inside Sin, I think.)
+
+
+Left Window NPC:  Sin cedc cdemm. Ed sujac hud.(Sin sits still. It moves not.)
+                  Ed caasc du fyed vun ic.     (It seems to wait for us.)
+
+Right Window NPC: Ev uhmo dra syeh kih fungat, (If only the main gun worked,)
+                  fa luimt cruud Sin tufh!     (we could shoot Sin down!)
+
+
+
+Sitting Al Bhed: Drana'c hudrehk ujan drana... (There's nothing over there...)
+                 huf dryd Home ec kuha.        (now that Home is gone.)
+Sitting Al Bhed: Pid drah, fa cdemm            (But then, we still)
+                 ryja blitz, oui caa?          (have blitz, you see?)
+Sitting Al Bhed: Dra pymm...                   (The ball...)
+                 E drehg fa vunkud cusadrehk.  (I think we forgot something.)
+
+
+Al Bhed Woman:   So lremt ec mucd eh           (My child is lost in)
+                 dra niehc uv Home             (the ruins of Home)
+Al Bhed Woman:   Bmayca, ramb sa               (Please, help me)
+                 du veht so lremt!             (to find my child!)
+
+
+Al Bhed Woman:   Frana ryc cra kuha?           (Where has she gone?)
+                 E femm lralg ujan rana        (I will check over here)
+Al Bhed Woman:   Oui lralg po dra lmevv.       (You check by the cliff.)

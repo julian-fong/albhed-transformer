@@ -19,7 +19,7 @@ class AlbhedConfig:
     ignore_pad_token: int = 50257
 
 class Head(nn.Module):
-    def __init__(self, config, masked = True):
+    def __init__(self, config, masked = False):
         super().__init__()
         self.n_embed = config.n_embed
         self.block_size = config.block_size
@@ -38,7 +38,7 @@ class Head(nn.Module):
         self.Wk = nn.Linear(self.n_embed, self.head_size, bias = False)
         
 
-    def forward(self, x, enc_x = None, attn_mask = None):
+    def forward(self, x, enc_x = None, pad_mask = None):
         B, T, C = x.size()
         if enc_x is not None:
             k = self.Wk(enc_x)
@@ -54,8 +54,8 @@ class Head(nn.Module):
         # use masking only for decoder self attention
         if self.masked:
             scores = scores.masked_fill(self.tril[:T, :T] == 0, float('-inf'))
-        if attn_mask is not None:
-            scores = scores.masked_fill(attn_mask.unsqueeze(1) == 0, float('-inf'))
+        if pad_mask is not None:
+            scores = scores.masked_fill(pad_mask.unsqueeze(1) == 0, float('-inf'))
          
         attn = F.softmax(scores, dim=-1) # B, T, T
         
@@ -79,8 +79,8 @@ class MultiHeadAttention(nn.Module):
         self.heads = nn.ModuleList([Head(config, masked=self.masked) for _ in range(self.n_heads)]) # will return B, T, head_size * n_heads
         self.mha_proj = nn.Linear(self.head_size * self.n_heads, config.n_embed) # project to to n_embed B, T, C
         
-    def forward(self, x, enc_x = None, attn_mask = None):
-        out = torch.cat([h(x, enc_x=enc_x, attn_mask=attn_mask) for h in self.heads], dim = -1) # B, T, head_size * n_heads
+    def forward(self, x, enc_x = None, pad_mask = None):
+        out = torch.cat([h(x, enc_x=enc_x, pad_mask=pad_mask) for h in self.heads], dim = -1) # B, T, head_size * n_heads
         out = self.mha_proj(out)
         if hasattr(self, 'dropout'):
             out = self.dropout(out)
@@ -116,8 +116,8 @@ class EncoderBlock(nn.Module):
         self.norm1 = nn.LayerNorm(config.n_embed)
         self.norm2 = nn.LayerNorm(config.n_embed)
         
-    def forward(self, x, attn_mask=None):
-        x = x + self.norm1(self.mha(x, attn_mask=attn_mask))
+    def forward(self, x, pad_mask=None):
+        x = x + self.norm1(self.mha(x, pad_mask=pad_mask))
         x = x + self.norm2(self.ffn(x))
         
         return x
@@ -132,10 +132,10 @@ class DecoderBlock(nn.Module):
         self.norm3 = nn.LayerNorm(config.n_embed)
         self.ffn = FFN(config)
         
-    def forward(self, x, enc_x, attn_mask=None, enc_x_attn_mask=None):
+    def forward(self, x, enc_x, pad_mask=None, enc_x_pad_mask=None):
         # in cross attention we use the encoder's attention mask not the decoders
-        x = x + self.norm1(self.mmha(x, attn_mask=attn_mask))
-        x = x + self.norm2(self.cross_mha(x, enc_x=enc_x, attn_mask=enc_x_attn_mask))
+        x = x + self.norm1(self.mmha(x, pad_mask=pad_mask))
+        x = x + self.norm2(self.cross_mha(x, enc_x=enc_x, pad_mask=enc_x_pad_mask))
         x = x + self.norm3(self.ffn(x))
         
         return x
@@ -165,13 +165,12 @@ class Transformer(nn.Module):
         
         self.apply(self._init_weights)
 
-    def forward(self, x, y, targets = None, x_attn_mask = None, y_attn_mask = None):
+    def forward(self, x, y, targets = None, x_pad_mask = None, y_pad_mask = None):
         _, Tx = x.size()
         _, Ty = y.size()
 
         assert Tx < self.block_size, "Source sentence length exceeds block size"
         assert Ty < self.block_size, "Target sentence length exceeds block size"
-        # assert Tx == Ty, "Source and target sentences must have the same length"
 
         pos_x = torch.arange(0, Tx, dtype=torch.long, device=x.device)
         pos_y = torch.arange(0, Ty, dtype=torch.long, device=y.device)
@@ -187,10 +186,10 @@ class Transformer(nn.Module):
         y = y_tok_emb + y_pos_emb
         
         for block in self.encoder_blocks:
-            x = block(x, attn_mask=x_attn_mask)
+            x = block(x, pad_mask=x_pad_mask)
 
         for block in self.decoder_blocks:
-            y = block(y, enc_x=x, attn_mask=y_attn_mask, enc_x_attn_mask=x_attn_mask)
+            y = block(y, enc_x=x, pad_mask=y_pad_mask, enc_x_pad_mask=x_pad_mask)
 
         y = self.ln_final(y)
         logits = self.lm_head(y) # B, T, vocab_size
@@ -235,8 +234,8 @@ for i in range(250):
         x = encoder_input_ids, 
         y = decoder_input_ids, 
         targets=labels, 
-        x_attn_mask=encoder_attention_mask, 
-        y_attn_mask=decoder_attention_mask
+        x_pad_mask=encoder_attention_mask, 
+        y_pad_mask=decoder_attention_mask
     )
 
     loss.backward()
